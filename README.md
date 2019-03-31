@@ -1,2 +1,3 @@
 # Logistic-Regression---Titanic-Survival
-Code to perform logistic regression
+We're going to train a logistic regression classifier to classify titanic data set, we're going to predict whether somebody would have survived the titanic or not based on their features like age,class,sex....
+
