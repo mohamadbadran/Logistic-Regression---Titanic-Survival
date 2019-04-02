@@ -27,7 +27,7 @@ The sinking of the Titanic on April 15th, 1912 is one of the most tragic tragedi
 
 .Target class: Survived: Survival (0 = No, 1 = Yes)
 
-The dataset includes some features that do not affect our results like PassengerID... so we will omit these features to make a better model.
+The dataset includes some features that do not affect our predictions like PassengerID... so we will omit these features to make a better model.
 
 =======
 >>>>>>> 8025a07afc566fb6d92d35ec04a0f5c2d5d143ab
