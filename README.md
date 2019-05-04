@@ -1,6 +1,8 @@
 # Logistic-Regression---Titanic-Survival
 We're going to train a logistic regression classifier to classify titanic data set, we're going to predict whether somebody would have survived the titanic or not based on their features like age,class,sex....
 
+You can view the notebook from here https://nbviewer.jupyter.org/github/mohamadbadran/Logistic-Regression---Titanic-Survival/blob/master/Logistic%20Regression%20-%20Titanic%20Survival-Filming-2.ipynb
+
 <<<<<<< HEAD
 
 #PROBLEM STATEMENT
